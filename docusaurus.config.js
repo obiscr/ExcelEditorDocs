@@ -123,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2016 - ${new Date().getFullYear()} Observer & Creator. All Rights Reserved.`,
+        copyright: `Copyright © 2016 - ${new Date().getFullYear()} Observer & Creator. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
