@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Home
+sidebar_label: ExcelEditor 2022.2.2-213
+title: What's new in ExcelEditor 2022.2.2-213
 ---
-
 ## Introduction
 
 ExcelEditor is an Enhanced Edition of ExcelReader. 
