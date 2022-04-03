@@ -90,6 +90,12 @@ const config = {
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
           },
+          {
+            href: 'https://plugins.jetbrains.com/plugin/18663-exceleditor',
+            position: 'right',
+            className: 'header-jetbrains-link',
+            'aria-label': 'JetBrains Plugin Platform',
+          },
         ],
       },
       footer: {
