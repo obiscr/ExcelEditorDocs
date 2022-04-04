@@ -62,7 +62,7 @@ const config = {
         id: 'support_us',
         content:
             '<b>🎉🎉🎉 ExcelEditor <a href="https://plugins.jetbrains.com/plugin/18663-exceleditor">2022.2.2-213.1</a> has now been released. <a href="https://plugins.jetbrains.com/plugin/18663-exceleditor">Show me</a>!</b> 🎉🎉🎉',
-        backgroundColor: '#5970EF',
+        backgroundColor: '#6861F0',
         textColor: '#fff',
         isCloseable: false,
       },
