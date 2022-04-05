@@ -10,7 +10,7 @@ const config = {
   tagline: 'ExcelEditor is an Enhanced Edition of ExcelReader. Has all the features of ExcelReader' +
       'And additionally provides: Open multiple files,Data modification,File comparison,Excel Merge Function',
   url: 'https://github.com/',
-  baseUrl: '/ExcelEditor/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
