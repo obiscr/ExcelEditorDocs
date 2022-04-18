@@ -18,7 +18,12 @@ const config = {
   projectName: 'ExcelEditor', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
-
+  scripts: [
+    {
+      src: 'https://platform-api.sharethis.com/js/sharethis.js#property=625d8d8aa939b6001901e251&product=sop',
+      async: true,
+    },
+  ],
   // i18n: {
   //   defaultLocale: 'en',
   //   locales: ['zh-CN', 'en'],
