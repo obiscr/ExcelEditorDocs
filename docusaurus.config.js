@@ -90,6 +90,12 @@ const config = {
           //   position: 'right',
           // },
           {
+            href: 'https://www.obiscr.com',
+            position: 'right',
+            className: 'header-obiscr-link',
+            'aria-label': 'Observer & Creator',
+          },
+          {
             href: 'https://github.com/obiscr/ExcelEditor',
             position: 'right',
             className: 'header-github-link',
